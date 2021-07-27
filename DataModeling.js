@@ -28,5 +28,8 @@ these field types represent dates or date/time combinations, like birthdays or s
 Formula
 this special field type holds a value that’s automatically calculated based on a formula that you write
 
-
+-------Best practicces---------------
+- Be thoughtful about names
+- Help out your users.
+- Require fields when necessary
 */
