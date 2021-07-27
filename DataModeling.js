@@ -32,4 +32,9 @@ this special field type holds a value that’s automatically calculated based on
 - Be thoughtful about names
 - Help out your users.
 - Require fields when necessary
+
+
+-------------------CREATE OBJECT RELATIONSSHIPS------
+
+
 */
