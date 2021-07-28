@@ -21,5 +21,7 @@ thinking about in POO
 Hierarchical relationships
 It is a special type of lookup relationship, creating management chains between users
 
-
+-------SCHEMA BUILDER--------------------
+Schema Builder is a tool that lets you visualize and edit your data model.It’s useful for designing and understanding complex data models
+Schema Builder is a handy tool for introducing your Salesforce customizations to a co-worker or explaining the way data flows throughout your system.
 */
