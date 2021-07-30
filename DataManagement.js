@@ -25,4 +25,11 @@ types
 - Formula Fields—Formula fields cannot accept imported data because they are read-only.
 - ield Validation Rules—Salesforce runs validation rules on records before they are imported
 
+------DATA EXPORT---------------------
+- Data Export Service
+an in-browser service, accessible through the Setup menu. It allows you to export data manually once every 7 days (for weekly export) or 29 days (for monthly export).
+
+- Data Loader
+a client application that you must install separately. It can be operated either through the user interface or the command line. 
+
 */
