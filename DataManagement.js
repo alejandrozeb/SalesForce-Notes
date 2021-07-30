@@ -17,4 +17,12 @@ Use Data Loader When:
 - You want to schedule regular data loads, such as nightly imports.
 
 
+types
+- Multi-Select Picklists—To import multiple values into a multi-select picklist, separate the values by a semicolon in your import file
+- Checkboxes—To import data into a checkbox field, use 1 for checked values and 0 for unchecked values.
+- Default Values—For picklist, multi-select picklist, and checkbox fields, if you do not map the field in the import wizard, the default value for the field, if any, is automatically inserted into the new or updated record.
+- Date/Time Fields—Ensure that the format of any date/time fields you are importing matches how they display in Salesforce per your locale setting.
+- Formula Fields—Formula fields cannot accept imported data because they are read-only.
+- ield Validation Rules—Salesforce runs validation rules on records before they are imported
+
 */
