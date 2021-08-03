@@ -13,7 +13,19 @@
 
   - Records
   You can allow particular users to view an object, but then restrict the individual object records they're allowed to see.
-    - Organization-wide defaults 
+    - Organization-wide defaults: specify the default level of access users have to each others’ records
+    - Role hierarchies: give access for users higher in the hierarchy to all records owned by users below them in the hierarchy.
+    - Sharing rules:are automatic exceptions to organization-wide defaults for particular groups of users, so they can get to records they don’t own or can’t normally see
+    - Manual Sharing: allows owners of particular records to share them with other users.
+
+- Audit System Use
+
+    record Modification Fields
+    login history
+    field History tracking
+    setup audit trail
+
+    
     
 
 
