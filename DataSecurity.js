@@ -25,7 +25,22 @@
     field History tracking
     setup audit trail
 
-    
+--------CONTROL ACCESS TO THE ORG-------------
+  - Manage Users
+  Every Salesforce user is identified by a username, a password, and a single profile. Together with other settings, the profile determines what tasks users can perform, what data they see, and what they can do with the data
+
+  - Create a User
+  You can create users—even multiple users—in just a few clicks. It’s as simple as entering a username, alias, and email, and selecting a role, license, and profile.
+
+  activities
+  - Create a User
+  - Deactivate a User
+  - Set Password Policy
+  - Specify Trusted IP Ranges for the Org
+  - Restrict Login Access by IP Address Using Profiles
+  - Restrict Login Access by Time
+
+
     
 
 
