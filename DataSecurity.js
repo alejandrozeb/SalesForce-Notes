@@ -40,6 +40,15 @@
   - Restrict Login Access by IP Address Using Profiles
   - Restrict Login Access by Time
 
+  --------CONTROL ACCESS TO OBJECTS----------------
+  --------MANAGE OBJECT PERMISSIONS----------
+  The simplest way to control data access is to set permissions on a particular type of object
+  - A user’s profile determines the objects they can access and the things they can do with any object record (such as create, read, edit, or delete).
+  - Permission sets grant additional permissions and access settings to a user.
+
+  --------Use Profiles to Restrict Access---
+
+
 
     
 
